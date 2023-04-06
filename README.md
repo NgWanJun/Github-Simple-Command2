@@ -1,4 +1,3 @@
-# Github-Simple-Command2
 # GitHub Simple Command II
 
 ## Git Clone
